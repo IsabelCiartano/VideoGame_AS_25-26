@@ -52,6 +52,6 @@ Solo superando tutti gli ostacoli potrà finalmente riposare.
 - Linguaggio:  html, javascript 
 - Librerie principali:  p5.js
 
-## play it here !!!!!!!!
+## 🎮 Play it here !!!!!!!!
 https://isabelciartano.github.io/VideoGame_AS_25-26/
 
